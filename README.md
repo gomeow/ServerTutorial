@@ -2,5 +2,5 @@ ServerTutorial
 ==============
 
 Bukkit plugin
-blah
+master
 -
