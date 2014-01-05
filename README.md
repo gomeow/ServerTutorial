@@ -1,4 +1,4 @@
 ServerTutorial
 ==============
 
-Bukkit plugin.
+Bukkit plugin
